@@ -1,4 +1,6 @@
 # cyberroam-auto-login-BITMESRA
+Created an auto login script for our college network for
+automated login in to the network for a user.
 To use this python script 
 enter your username in the usr variable
 and 
